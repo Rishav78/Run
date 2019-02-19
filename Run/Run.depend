@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1539609639 source:c:\users\rishav\desktop\run\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<vector>
+	<windows.h>
+
+1540376700 source:d:\c++ programs\projects\run\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<vector>
+	<windows.h>
+
